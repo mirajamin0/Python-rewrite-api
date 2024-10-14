@@ -18,3 +18,4 @@ def rewrite():
 # Add this to allow Vercel to handle the app properly
 if __name__ == "__main__":
     app.run(debug=True)
+test 
